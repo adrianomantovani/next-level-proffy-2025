@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "es2021",
+    "esModuleInterop": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "outDir": "dist",
+    "baseUrl": "./src",
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "paths": {
+      "*": ["./*"]
+    }
+  }
+}
